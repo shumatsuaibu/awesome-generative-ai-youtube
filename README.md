@@ -8,3 +8,4 @@
 | Channel Name                         | Handle         | URL                                               | Description                        | Rating |
 |--------------------------------------|----------------|---------------------------------------------------|------------------------------------|:------:|
 | 【週末AI部】それ、AIでよくね?        | @shumatsuaibu  | https://www.youtube.com/@shumatsuaibu             | 初心者向けエンタメ＆実用＋AI速報   | ★★★★★ |
+| テストチャンネル（架空）             | @dummyhandle   | https://example.com/dummy         | テスト用の架空チャンネル       | ★★☆☆☆ |
