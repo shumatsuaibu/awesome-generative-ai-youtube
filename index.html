@@ -36,7 +36,7 @@
 <p>
   よろしければ&nbsp;
   <a
-    class="github-button no-nav"
+    class="github-button"
     href="https://github.com/shumatsuaibu/awesome-generative-ai-youtube"
     data-icon="octicon-star"
     data-size="large"
@@ -50,12 +50,13 @@
 <script async defer src="https://buttons.github.io/buttons.js"></script>
 
 <style>
-  /* ボタンは後に iframe に差し替わるので、その iframe に適用 */
-  .no-nav iframe {
-    pointer-events: none;   /* マウス操作・タップを無効化 */
-    cursor: default;        /* カーソルを通常矢印に戻す（好みで） */
+  /* GitHub Buttons が生成する iframe は src に ghbtns.com を含む */
+  iframe[src*="ghbtns.com"] {
+    pointer-events: none;   /* クリック・タップを完全に無効化 */
+    cursor: default;        /* “クリック不可” を示す通常矢印 */
   }
 </style>
+
 
   
   <p>
